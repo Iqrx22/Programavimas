@@ -1,0 +1,315 @@
+0. x: 1, y: 8, jis pateko, nes yra seed'as
+kaimynas: 1, 9 Jis pateko
+kaimynas: 2, 8 Jis pateko
+kaimynas: 1, 7 Jis pateko
+kaimynas: 0, 8 Jis pateko
+1. x: 1, y: 9, jis pateko
+kaimynas: 1, 10 Nepateko, nes uz ribu
+kaimynas: 2, 9 Jis pateko
+kaimynas: 1, 8 Nepateko, nes buvo sarase, 0-ntas numeris
+kaimynas: 0, 9 Jis pateko
+2. x: 2, y: 8, jis pateko
+kaimynas: 2, 9 Nepateko, nes buvo sarase, 5-ntas numeris
+kaimynas: 3, 8 Jis pateko
+kaimynas: 2, 7 Jis pateko
+kaimynas: 1, 8 Nepateko, nes buvo sarase, 0-ntas numeris
+3. x: 0, y: 8, jis nepateko, nes generatorius
+4. x: 0, y: 8, jis pateko
+kaimynas: 0, 9 Nepateko, nes buvo sarase, 6-ntas numeris
+kaimynas: 1, 8 Nepateko, nes buvo sarase, 0-ntas numeris
+kaimynas: 0, 7 Jis pateko
+kaimynas: -1, 8 Nepateko, nes uz ribu
+5. x: 0, y: 9, jis nepateko, nes per daug kaimynu
+6. x: 3, y: 8, jis nepateko, nes per daug kaimynu
+7. x: 3, y: 8, jis pateko
+kaimynas: 3, 9 Jis pateko
+kaimynas: 4, 8 Jis pateko
+kaimynas: 3, 7 Jis pateko
+kaimynas: 2, 8 Nepateko, nes buvo sarase, 2-ntas numeris
+8. x: 0, y: 7, jis nepateko, nes per daug kaimynu
+9. x: 0, y: 7, jis pateko
+kaimynas: 0, 8 Nepateko, nes buvo sarase, 4-ntas numeris
+kaimynas: 1, 7 Nepateko, nes buvo sarase, 3-ntas numeris
+kaimynas: 0, 6 Jis pateko
+kaimynas: -1, 7 Nepateko, nes uz ribu
+10. x: 3, y: 9, jis pateko
+kaimynas: 3, 10 Nepateko, nes uz ribu
+kaimynas: 4, 9 Jis pateko
+kaimynas: 3, 8 Nepateko, nes buvo sarase, 7-ntas numeris
+kaimynas: 2, 9 Nepateko, nes buvo sarase, 5-ntas numeris
+11. x: 4, y: 8, jis pateko
+kaimynas: 4, 9 Nepateko, nes buvo sarase, 14-ntas numeris
+kaimynas: 5, 8 Jis pateko
+kaimynas: 4, 7 Jis pateko
+kaimynas: 3, 8 Nepateko, nes buvo sarase, 7-ntas numeris
+12. x: 0, y: 6, jis nepateko, nes per daug kaimynu
+13. x: 0, y: 6, jis pateko
+kaimynas: 0, 7 Nepateko, nes buvo sarase, 9-ntas numeris
+kaimynas: 1, 6 Jis pateko
+kaimynas: 0, 5 Jis pateko
+kaimynas: -1, 6 Nepateko, nes uz ribu
+14. x: 5, y: 8, jis nepateko, nes per daug kaimynu
+15. x: 5, y: 8, jis pateko
+kaimynas: 5, 9 Jis pateko
+kaimynas: 6, 8 Jis pateko
+kaimynas: 5, 7 Jis pateko
+kaimynas: 4, 8 Nepateko, nes buvo sarase, 11-ntas numeris
+16. x: 1, y: 6, jis nepateko, nes per daug kaimynu
+17. x: 1, y: 6, jis pateko
+kaimynas: 1, 7 Nepateko, nes buvo sarase, 3-ntas numeris
+kaimynas: 2, 6 Jis pateko
+kaimynas: 1, 5 Jis pateko
+kaimynas: 0, 6 Nepateko, nes buvo sarase, 13-ntas numeris
+18. x: 0, y: 5, jis pateko
+kaimynas: 0, 6 Nepateko, nes buvo sarase, 13-ntas numeris
+kaimynas: 1, 5 Nepateko, nes buvo sarase, 23-ntas numeris
+kaimynas: 0, 4 Jis pateko
+kaimynas: -1, 5 Nepateko, nes uz ribu
+19. x: 5, y: 9, jis pateko
+kaimynas: 5, 10 Nepateko, nes uz ribu
+kaimynas: 6, 9 Jis pateko
+kaimynas: 5, 8 Nepateko, nes buvo sarase, 15-ntas numeris
+kaimynas: 4, 9 Nepateko, nes buvo sarase, 14-ntas numeris
+20. x: 6, y: 8, jis pateko
+kaimynas: 6, 9 Nepateko, nes buvo sarase, 25-ntas numeris
+kaimynas: 7, 8 Jis pateko
+kaimynas: 6, 7 Jis pateko
+kaimynas: 5, 8 Nepateko, nes buvo sarase, 15-ntas numeris
+21. x: 2, y: 6, jis nepateko, nes per daug kaimynu
+22. x: 2, y: 6, jis pateko
+kaimynas: 2, 7 Nepateko, nes buvo sarase, 8-ntas numeris
+kaimynas: 3, 6 Jis pateko
+kaimynas: 2, 5 Jis pateko
+kaimynas: 1, 6 Nepateko, nes buvo sarase, 17-ntas numeris
+23. x: 0, y: 4, jis nepateko, nes per daug kaimynu
+24. x: 0, y: 4, jis pateko
+kaimynas: 0, 5 Nepateko, nes buvo sarase, 18-ntas numeris
+kaimynas: 1, 4 Jis pateko
+kaimynas: 0, 3 Jis pateko
+kaimynas: -1, 4 Nepateko, nes uz ribu
+25. x: 7, y: 8, jis nepateko, nes per daug kaimynu
+26. x: 7, y: 8, jis pateko
+kaimynas: 7, 9 Jis pateko
+kaimynas: 8, 8 Jis pateko
+kaimynas: 7, 7 Jis pateko
+kaimynas: 6, 8 Nepateko, nes buvo sarase, 20-ntas numeris
+27. x: 3, y: 6, jis nepateko, nes per daug kaimynu
+28. x: 3, y: 6, jis pateko
+kaimynas: 3, 7 Nepateko, nes buvo sarase, 12-ntas numeris
+kaimynas: 4, 6 Jis pateko
+kaimynas: 3, 5 Jis pateko
+kaimynas: 2, 6 Nepateko, nes buvo sarase, 22-ntas numeris
+29. x: 1, y: 4, jis nepateko, nes per daug kaimynu
+30. x: 1, y: 4, jis pateko
+kaimynas: 1, 5 Nepateko, nes buvo sarase, 23-ntas numeris
+kaimynas: 2, 4 Jis pateko
+kaimynas: 1, 3 Jis pateko
+kaimynas: 0, 4 Nepateko, nes buvo sarase, 24-ntas numeris
+31. x: 0, y: 3, jis pateko
+kaimynas: 0, 4 Nepateko, nes buvo sarase, 24-ntas numeris
+kaimynas: 1, 3 Nepateko, nes buvo sarase, 38-ntas numeris
+kaimynas: 0, 2 Jis pateko
+kaimynas: -1, 3 Nepateko, nes uz ribu
+32. x: 7, y: 9, jis pateko
+kaimynas: 7, 10 Nepateko, nes uz ribu
+kaimynas: 8, 9 Jis pateko
+kaimynas: 7, 8 Nepateko, nes buvo sarase, 26-ntas numeris
+kaimynas: 6, 9 Nepateko, nes buvo sarase, 25-ntas numeris
+33. x: 7, y: 7, jis nepateko, nes generatorius
+34. x: 7, y: 7, jis pateko
+kaimynas: 7, 8 Nepateko, nes buvo sarase, 26-ntas numeris
+kaimynas: 8, 7 Jis pateko
+kaimynas: 7, 6 Jis pateko
+kaimynas: 6, 7 Nepateko, nes buvo sarase, 27-ntas numeris
+35. x: 4, y: 6, jis pateko
+kaimynas: 4, 7 Nepateko, nes buvo sarase, 16-ntas numeris
+kaimynas: 5, 6 Jis pateko
+kaimynas: 4, 5 Jis pateko
+kaimynas: 3, 6 Nepateko, nes buvo sarase, 28-ntas numeris
+36. x: 2, y: 4, jis nepateko, nes per daug kaimynu
+37. x: 2, y: 4, jis pateko
+kaimynas: 2, 5 Nepateko, nes buvo sarase, 29-ntas numeris
+kaimynas: 3, 4 Jis pateko
+kaimynas: 2, 3 Jis pateko
+kaimynas: 1, 4 Nepateko, nes buvo sarase, 30-ntas numeris
+38. x: 0, y: 2, jis nepateko, nes per daug kaimynu
+39. x: 0, y: 2, jis pateko
+kaimynas: 0, 3 Nepateko, nes buvo sarase, 31-ntas numeris
+kaimynas: 1, 2 Jis pateko
+kaimynas: 0, 1 Jis pateko
+kaimynas: -1, 2 Nepateko, nes uz ribu
+40. x: 8, y: 9, jis pateko
+kaimynas: 8, 10 Nepateko, nes uz ribu
+kaimynas: 9, 9 Jis pateko
+kaimynas: 8, 8 Nepateko, nes buvo sarase, 33-ntas numeris
+kaimynas: 7, 9 Nepateko, nes buvo sarase, 32-ntas numeris
+41. x: 8, y: 7, jis pateko
+kaimynas: 8, 8 Nepateko, nes buvo sarase, 33-ntas numeris
+kaimynas: 9, 7 Jis pateko
+kaimynas: 8, 6 Jis pateko
+kaimynas: 7, 7 Nepateko, nes buvo sarase, 34-ntas numeris
+42. x: 7, y: 6, jis pateko
+kaimynas: 7, 7 Nepateko, nes buvo sarase, 34-ntas numeris
+kaimynas: 8, 6 Nepateko, nes buvo sarase, 51-ntas numeris
+kaimynas: 7, 5 Jis pateko
+kaimynas: 6, 6 Jis pateko
+43. x: 4, y: 5, jis nepateko, nes generatorius
+44. x: 4, y: 5, jis pateko
+kaimynas: 4, 6 Nepateko, nes buvo sarase, 35-ntas numeris
+kaimynas: 5, 5 Jis pateko
+kaimynas: 4, 4 Jis pateko
+kaimynas: 3, 5 Nepateko, nes buvo sarase, 36-ntas numeris
+45. x: 3, y: 4, jis pateko
+kaimynas: 3, 5 Nepateko, nes buvo sarase, 36-ntas numeris
+kaimynas: 4, 4 Nepateko, nes buvo sarase, 55-ntas numeris
+kaimynas: 3, 3 Jis pateko
+kaimynas: 2, 4 Nepateko, nes buvo sarase, 37-ntas numeris
+46. x: 1, y: 2, jis nepateko, nes per daug kaimynu
+47. x: 1, y: 2, jis pateko
+kaimynas: 1, 3 Nepateko, nes buvo sarase, 38-ntas numeris
+kaimynas: 2, 2 Jis pateko
+kaimynas: 1, 1 Jis pateko
+kaimynas: 0, 2 Nepateko, nes buvo sarase, 39-ntas numeris
+48. x: 0, y: 1, jis pateko
+kaimynas: 0, 2 Nepateko, nes buvo sarase, 39-ntas numeris
+kaimynas: 1, 1 Nepateko, nes buvo sarase, 58-ntas numeris
+kaimynas: 0, 0 Jis pateko
+kaimynas: -1, 1 Nepateko, nes uz ribu
+49. x: 9, y: 9, jis pateko
+kaimynas: 9, 10 Nepateko, nes uz ribu
+kaimynas: 10, 9 Nepateko, nes uz ribu
+kaimynas: 9, 8 Jis pateko
+kaimynas: 8, 9 Nepateko, nes buvo sarase, 40-ntas numeris
+50. x: 8, y: 6, jis nepateko, nes generatorius
+51. x: 7, y: 5, jis nepateko, nes per daug kaimynu
+52. x: 6, y: 6, jis nepateko, nes generatorius
+53. x: 5, y: 5, jis nepateko, nes generatorius
+54. x: 4, y: 4, jis nepateko, nes generatorius
+55. x: 3, y: 3, jis nepateko, nes generatorius
+56. x: 3, y: 3, jis pateko
+kaimynas: 3, 4 Nepateko, nes buvo sarase, 45-ntas numeris
+kaimynas: 4, 3 Jis pateko
+kaimynas: 3, 2 Jis pateko
+kaimynas: 2, 3 Nepateko, nes buvo sarase, 46-ntas numeris
+57. x: 2, y: 2, jis pateko
+kaimynas: 2, 3 Nepateko, nes buvo sarase, 46-ntas numeris
+kaimynas: 3, 2 Nepateko, nes buvo sarase, 62-ntas numeris
+kaimynas: 2, 1 Jis pateko
+kaimynas: 1, 2 Nepateko, nes buvo sarase, 47-ntas numeris
+58. x: 0, y: 0, jis nepateko, nes per daug kaimynu
+59. x: 0, y: 0, jis pateko
+kaimynas: 0, 1 Nepateko, nes buvo sarase, 48-ntas numeris
+kaimynas: 1, 0 Jis pateko
+kaimynas: 0, -1 Nepateko, nes uz ribu
+kaimynas: -1, 0 Nepateko, nes uz ribu
+60. x: 4, y: 3, jis nepateko, nes per daug kaimynu
+61. x: 3, y: 2, jis nepateko, nes generatorius
+62. x: 3, y: 2, jis pateko
+kaimynas: 3, 3 Nepateko, nes buvo sarase, 56-ntas numeris
+kaimynas: 4, 2 Jis pateko
+kaimynas: 3, 1 Jis pateko
+kaimynas: 2, 2 Nepateko, nes buvo sarase, 57-ntas numeris
+63. x: 1, y: 0, jis nepateko, nes per daug kaimynu
+64. x: 1, y: 0, jis pateko
+kaimynas: 1, 1 Nepateko, nes buvo sarase, 58-ntas numeris
+kaimynas: 2, 0 Jis pateko
+kaimynas: 1, -1 Nepateko, nes uz ribu
+kaimynas: 0, 0 Nepateko, nes buvo sarase, 59-ntas numeris
+65. x: 4, y: 2, jis pateko
+kaimynas: 4, 3 Nepateko, nes buvo sarase, 61-ntas numeris
+kaimynas: 5, 2 Jis pateko
+kaimynas: 4, 1 Jis pateko
+kaimynas: 3, 2 Nepateko, nes buvo sarase, 62-ntas numeris
+66. x: 2, y: 0, jis nepateko, nes per daug kaimynu
+67. x: 2, y: 0, jis pateko
+kaimynas: 2, 1 Nepateko, nes buvo sarase, 63-ntas numeris
+kaimynas: 3, 0 Jis pateko
+kaimynas: 2, -1 Nepateko, nes uz ribu
+kaimynas: 1, 0 Nepateko, nes buvo sarase, 64-ntas numeris
+68. x: 5, y: 2, jis pateko
+kaimynas: 5, 3 Jis pateko
+kaimynas: 6, 2 Jis pateko
+kaimynas: 5, 1 Jis pateko
+kaimynas: 4, 2 Nepateko, nes buvo sarase, 65-ntas numeris
+69. x: 3, y: 0, jis nepateko, nes per daug kaimynu
+70. x: 3, y: 0, jis pateko
+kaimynas: 3, 1 Nepateko, nes buvo sarase, 66-ntas numeris
+kaimynas: 4, 0 Jis pateko
+kaimynas: 3, -1 Nepateko, nes uz ribu
+kaimynas: 2, 0 Nepateko, nes buvo sarase, 67-ntas numeris
+71. x: 6, y: 2, jis nepateko, nes generatorius
+72. x: 6, y: 2, jis pateko
+kaimynas: 6, 3 Jis pateko
+kaimynas: 7, 2 Jis pateko
+kaimynas: 6, 1 Jis pateko
+kaimynas: 5, 2 Nepateko, nes buvo sarase, 68-ntas numeris
+73. x: 4, y: 0, jis nepateko, nes per daug kaimynu
+74. x: 4, y: 0, jis pateko
+kaimynas: 4, 1 Nepateko, nes buvo sarase, 69-ntas numeris
+kaimynas: 5, 0 Jis pateko
+kaimynas: 4, -1 Nepateko, nes uz ribu
+kaimynas: 3, 0 Nepateko, nes buvo sarase, 70-ntas numeris
+75. x: 6, y: 3, jis pateko
+kaimynas: 6, 4 Jis pateko
+kaimynas: 7, 3 Jis pateko
+kaimynas: 6, 2 Nepateko, nes buvo sarase, 72-ntas numeris
+kaimynas: 5, 3 Nepateko, nes buvo sarase, 71-ntas numeris
+76. x: 7, y: 2, jis pateko
+kaimynas: 7, 3 Nepateko, nes buvo sarase, 80-ntas numeris
+kaimynas: 8, 2 Jis pateko
+kaimynas: 7, 1 Jis pateko
+kaimynas: 6, 2 Nepateko, nes buvo sarase, 72-ntas numeris
+77. x: 5, y: 0, jis nepateko, nes per daug kaimynu
+78. x: 5, y: 0, jis pateko
+kaimynas: 5, 1 Nepateko, nes buvo sarase, 73-ntas numeris
+kaimynas: 6, 0 Jis pateko
+kaimynas: 5, -1 Nepateko, nes uz ribu
+kaimynas: 4, 0 Nepateko, nes buvo sarase, 74-ntas numeris
+79. x: 6, y: 4, jis pateko
+kaimynas: 6, 5 Jis pateko
+kaimynas: 7, 4 Jis pateko
+kaimynas: 6, 3 Nepateko, nes buvo sarase, 75-ntas numeris
+kaimynas: 5, 4 Jis pateko
+80. x: 8, y: 2, jis nepateko, nes per daug kaimynu
+81. x: 8, y: 2, jis pateko
+kaimynas: 8, 3 Jis pateko
+kaimynas: 9, 2 Jis pateko
+kaimynas: 8, 1 Jis pateko
+kaimynas: 7, 2 Nepateko, nes buvo sarase, 76-ntas numeris
+82. x: 6, y: 0, jis nepateko, nes per daug kaimynu
+83. x: 6, y: 5, jis nepateko, nes generatorius
+84. x: 6, y: 5, jis pateko
+kaimynas: 6, 6 Nepateko, nes buvo sarase, 53-ntas numeris
+kaimynas: 7, 5 Nepateko, nes buvo sarase, 52-ntas numeris
+kaimynas: 6, 4 Nepateko, nes buvo sarase, 79-ntas numeris
+kaimynas: 5, 5 Nepateko, nes buvo sarase, 54-ntas numeris
+85. x: 5, y: 4, jis nepateko, nes per daug kaimynu
+86. x: 8, y: 3, jis nepateko, nes per daug kaimynu
+87. x: 9, y: 2, jis nepateko, nes generatorius
+88. x: 9, y: 2, jis pateko
+kaimynas: 9, 3 Jis pateko
+kaimynas: 10, 2 Nepateko, nes uz ribu
+kaimynas: 9, 1 Jis pateko
+kaimynas: 8, 2 Nepateko, nes buvo sarase, 81-ntas numeris
+89. x: 9, y: 3, jis nepateko, nes per daug kaimynu
+90. x: 9, y: 1, jis nepateko, nes generatorius
+91. x: 9, y: 1, jis pateko
+kaimynas: 9, 2 Nepateko, nes buvo sarase, 88-ntas numeris
+kaimynas: 10, 1 Nepateko, nes uz ribu
+kaimynas: 9, 0 Jis pateko
+kaimynas: 8, 1 Nepateko, nes buvo sarase, 89-ntas numeris
+92. x: 9, y: 0, jis pateko
+kaimynas: 9, 1 Nepateko, nes buvo sarase, 91-ntas numeris
+kaimynas: 10, 0 Nepateko, nes uz ribu
+kaimynas: 9, -1 Nepateko, nes uz ribu
+kaimynas: 8, 0 Jis pateko
+93. x: 8, y: 0, jis pateko
+kaimynas: 8, 1 Nepateko, nes buvo sarase, 89-ntas numeris
+kaimynas: 9, 0 Nepateko, nes buvo sarase, 92-ntas numeris
+kaimynas: 8, -1 Nepateko, nes uz ribu
+kaimynas: 7, 0 Jis pateko
+94. x: 7, y: 0, jis pateko
+kaimynas: 7, 1 Nepateko, nes buvo sarase, 82-ntas numeris
+kaimynas: 8, 0 Nepateko, nes buvo sarase, 93-ntas numeris
+kaimynas: 7, -1 Nepateko, nes uz ribu
+kaimynas: 6, 0 Nepateko, nes buvo sarase, 83-ntas numeris
